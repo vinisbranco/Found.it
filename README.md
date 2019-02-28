@@ -9,4 +9,4 @@ Como projetos futuros pretendemos ampliar para outros produtos e dispensar o uso
 
 ## Demonstração do MVP
 
-![alt text](https://github.com/vinisbranco/Found.it/blob/master/docs/demonstra%C3%A7%C3%A3o.jpg)
+<img src="https://github.com/vinisbranco/Found.it/blob/master/docs/demonstra%C3%A7%C3%A3o.jpg" width="240">
